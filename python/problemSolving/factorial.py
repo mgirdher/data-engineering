@@ -1,4 +1,6 @@
 import time
+
+print("hi")
 def factorial_head_recursion(n):
     """
     Calculates factorial of a number using head recursion
